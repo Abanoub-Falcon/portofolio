@@ -32,7 +32,7 @@ const Hero = () => {
           <div className="flex-1 text-center lg:text-left animate-slide-up">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
               Hi, I'm{' '}
-              <span className="text-gradient">John Doe</span>
+              <span className="text-gradient">Abanoub Victor</span>
               <br />
               <span className="text-2xl sm:text-3xl lg:text-4xl text-muted-foreground">
                 Cybersecurity Engineer
