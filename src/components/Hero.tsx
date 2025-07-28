@@ -56,7 +56,7 @@ const Hero = () => {
               <Button 
                 variant="outline" 
                 className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
-                onClick={() => window.open('#', '_blank')} // Replace with your resume URL
+                onClick={() => window.open('https://raw.githubusercontent.com/Abanoub-Falcon/portofolio/refs/heads/main/Abanoub%20Fahim.pdf', '_blank')} // Replace with your resume URL
               >
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
@@ -69,7 +69,7 @@ const Hero = () => {
                 variant="ghost"
                 size="icon"
                 className="hover:text-primary hover:bg-primary/20 animate-pulse-glow"
-                onClick={() => window.open('https://github.com/your-username', '_blank')}
+                onClick={() => window.open('https://github.com/Abanoub-Falcon', '_blank')}
               >
                 <Github className="h-5 w-5" />
               </Button>
@@ -77,7 +77,7 @@ const Hero = () => {
                 variant="ghost"
                 size="icon"
                 className="hover:text-primary hover:bg-primary/20 animate-pulse-glow"
-                onClick={() => window.open('https://linkedin.com/in/your-profile', '_blank')}
+                onClick={() => window.open('https://linkedin.com/in/abanoub-victor', '_blank')}
               >
                 <Linkedin className="h-5 w-5" />
               </Button>
@@ -85,7 +85,7 @@ const Hero = () => {
                 variant="ghost"
                 size="icon"
                 className="hover:text-primary hover:bg-primary/20 animate-pulse-glow"
-                onClick={() => window.open('mailto:your.email@example.com', '_blank')}
+                onClick={() => window.open('mailto:abanoub.victor.gold@gmail.com', '_blank')}
               >
                 <Mail className="h-5 w-5" />
               </Button>

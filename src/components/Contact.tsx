@@ -42,19 +42,19 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com'
+      value: 'abanoub.victor.gold@gmail.com',
+      href: 'mailto:abanoub.victor.gold@gmail.com'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567'
+      value: '+201289927646',
+      href: 'tel:+201289927646'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Tech City, State',
+      value: 'Alexandria, Egypt',
       href: '#'
     }
   ];
@@ -63,17 +63,17 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/your-username'
+      href: 'https://github.com/Abanoub-Falcon'
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/your-profile'
+      href: 'https://linkedin.com/in/abanoub-victor'
     },
     {
       icon: Mail,
       label: 'Email',
-      href: 'mailto:your.email@example.com'
+      href: 'mailto:abanoub.victor.gold@gmail.com'
     }
   ];
 

@@ -48,10 +48,10 @@ const Navbar = () => {
             onClick={() => scrollToSection('home')}
           >
             <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center font-bold text-primary-foreground">
-              JD
+              Eng.
             </div>
             <span className="font-bold text-xl text-gradient">
-              CyberSec
+              Abanoub Victor
             </span>
           </div>
 

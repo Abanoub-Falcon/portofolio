@@ -7,17 +7,17 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: 'https://github.com/your-username',
+      href: 'https://github.com/Abanoub-Falcon',
       label: 'GitHub'
     },
     {
       icon: Linkedin,
-      href: 'https://linkedin.com/in/your-profile',
+      href: 'https://linkedin.com/in/abanoub-victor',
       label: 'LinkedIn'
     },
     {
       icon: Mail,
-      href: 'mailto:your.email@example.com',
+      href: 'mailto:abanoub.victor.gold@gmail.com',
       label: 'Email'
     }
   ];
@@ -34,10 +34,10 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center font-bold text-primary-foreground">
-                JD
+                Eng.
               </div>
               <span className="font-bold text-xl text-gradient">
-                CyberSec Portfolio
+                Abanoub Victor
               </span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
@@ -101,7 +101,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-border">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
             <div className="flex items-center text-muted-foreground text-sm">
-              <span>© {currentYear} John Doe. Made with</span>
+              <span>© {currentYear} Abanoub Victor. Made with</span>
               <Heart className="h-4 w-4 mx-2 text-red-500 fill-current" />
               <span>and lots of caffeine</span>
             </div>
