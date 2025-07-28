@@ -29,7 +29,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 lg:px-8 relative z-10">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           {/* Text Content */}
-          <div className="flex-1 text-center lg:text-left animate-slide-up">
+          <div className="flex-1 text-center lg:text-left animate-slide-up mt-12">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
               Hi, I'm{' '}
               <span className="text-gradient">Abanoub Victor</span>
